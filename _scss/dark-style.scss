@@ -1,0 +1,38 @@
+@charset "utf-8";
+@import "compass";
+@import "_style.scss";
+
+.mcl_nav_btn{
+	border: solid 1px #333;
+	background-color: #333;
+	.btn_border{
+		border-top: solid 2px #fff;
+	}
+}
+
+/*----------------------------------------
+	nav list style 
+/*-------------------------------------- */
+.mcl_nav_list{
+    background: #333;
+    box-shadow: -1px 0 40px rgba(000, 000, 000, 0.5), 1px 0 40px rgba(000, 000, 000, 0.5);
+    a{
+	    color: #fff;
+	    &:hover{
+		    color: #ccc;
+	    }
+    }
+    & > li + li{
+		overflow: hidden;
+		border-top: solid 1px #000;  
+		box-shadow: 0 -1px 3px rgba(000, 000, 000, 0.1);
+		
+    }
+    .sub-menu{
+	    & > li{
+			overflow: hidden;
+			border-top: solid 1px #000;
+			box-shadow: 0 -1px 3px rgba(000, 000, 000, 0.1);
+	    }
+    }
+}

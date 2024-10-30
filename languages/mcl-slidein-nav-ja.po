@@ -1,0 +1,88 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"POT-Creation-Date: 2015-12-13 21:14+0900\n"
+"PO-Revision-Date: 2015-12-13 21:32+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: mcl-slidein-nav.php:36
+msgid "Settings"
+msgstr "設定"
+
+#: mcl-slidein-nav.php:57
+msgid "Mcl slidein nav Setting"
+msgstr "Mcl slidein nav 設定"
+
+#: mcl-slidein-nav.php:58
+msgid "Mcl Slidein Nav"
+msgstr "Mcl Slidein Nav"
+
+#: mcl-slidein-nav.php:124
+msgid "You do not have sufficient permissions to access this page."
+msgstr "このページにアクセスする権限がありません。"
+
+#: mcl-slidein-nav.php:128
+msgid "Mcl Slidein Nav Setting"
+msgstr "Mcl slidein Nav 設定"
+
+#: mcl-slidein-nav.php:143
+msgid "Choose menu"
+msgstr "メニューを選択"
+
+#: mcl-slidein-nav.php:162
+msgid "Choose what you want to display menus."
+msgstr ""
+"スライドインメニューに設定したいカスタムメニューを選択して下さい。"
+
+#: mcl-slidein-nav.php:169
+msgid "Button's display window width"
+msgstr "メニューボタンを表示するウィンドウサイズ"
+
+#: mcl-slidein-nav.php:173
+msgid ""
+"Nav button is response displayed in window width. If you always want to "
+"display, Nothing input."
+msgstr ""
+"入力したウィンドウサイズ以下になった場合にメニューボタンを表示します。常"
+"にボタンを表示したい場合は何も入力しないで下さい。"
+
+#: mcl-slidein-nav.php:180
+msgid "Nav position"
+msgstr "メニュー\b位置"
+
+#: mcl-slidein-nav.php:198
+msgid "Select the position to display the menu."
+msgstr "メニューを表示する位置を選択して下さい。"
+
+#: mcl-slidein-nav.php:205
+msgid "Nav theme color"
+msgstr "メニューテーマカラー"
+
+#: mcl-slidein-nav.php:223
+msgid "Select the menu theme color, white or dark."
+msgstr "メニューのテーマカラーを選択して下さい。"
+
+#: mcl-slidein-nav.php:230
+msgid "Nav button position top"
+msgstr "メニューボタン位置（トップ）"
+
+#: mcl-slidein-nav.php:234
+msgid "Input of Nav button's position from window top."
+msgstr "メニューボタンのウィンドウ上部からの位置を入力して下さい。"
+
+#: mcl-slidein-nav.php:241
+msgid "Nav button position side"
+msgstr "メニューボタン位置（サイド）"
+
+#: mcl-slidein-nav.php:245
+msgid "Input of Nav button's position from window side."
+msgstr "メニューボタンのウィンドウサイドからの位置を入力して下さい。"
